@@ -1,0 +1,40 @@
+ body{
+background: black;
+font-family: 'Oswald', sans-serif;
+text-transform:capitalize;
+
+color:#ffffff;
+font-size:20px;
+letter-spacing:2px;
+line-height:40px;
+}
+
+.jumbotron{
+  background-color:#3a3a3a;
+  
+}
+
+#quote{
+  text-align:right;
+  margin:0 0 10% 40%;
+  font-size: 30px;
+}
+ 
+ button{
+  background-color:black;
+  border-color:black;
+
+}
+  
+#author{
+  text-align:right;
+  font-style:italic;
+  
+}
+
+button:hover{
+  
+  color:#ffffff;
+  border-color:white;
+}
+ 
