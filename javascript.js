@@ -16,5 +16,6 @@ function getQuote() {
 $(document).ready(function() {
  
   getQuote();
-  $(".new-quote-now").click(getQuote);
+  $(".newQuote").click(getQuote);
 });
+
